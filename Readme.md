@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/6uasig4q17d4x5qr?svg=true)](https://ci.appveyor.com/project/Corpse2011/auto6behaviourdrivendevelopment-b)
 
 # Домашнее задание к занятию «2.4. BDD»
 
